@@ -2,7 +2,8 @@
 ## AXOLOTL: an accurate method for detecting aberrant gene expression in rare diseases using co-expression constraints.
 
 ![Alt text](image.png)
-We propose a novel unsupervised method AXOLOTL to identify aberrant gene expression events in RNA expression matrix. AXOLOTL effectively addresses biological confounders by incorporating co-expression constraints. The manuscript is being submitted to peer review jounrnals Jan 2024. 
+We propose a novel unsupervised method AXOLOTL to identify aberrant gene expression events in RNA expression matrix. The method is useful for rare disease diagnosis.
+AXOLOTL effectively addresses biological confounders by incorporating co-expression constraints. The manuscript is being submitted to peer review jounrnals Jan 2024. 
 
 # prepare software enviroment
 We recommend to run AXO in docker enviroments. Create two docker image enviroments as follows:
@@ -30,4 +31,5 @@ Run AXO on demo data as:
 bash script/demo.sh
 ```
 
-You can also find more information on https://github.com/gagneurlab/OUTRIDER & https://github.com/esalkovic/outsingle.
+# more information
+You may also have interest on https://github.com/gagneurlab/OUTRIDER & https://github.com/esalkovic/outsingle.
