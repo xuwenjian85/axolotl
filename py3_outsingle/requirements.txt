@@ -1,0 +1,15 @@
+# requirements.txt
+# requests==2.26.0
+# flask==2.0.1
+mpmath==1.2.1
+pandas==1.5.3
+scipy
+multiprocess
+scikit-learn
+pickleshare
+# mkl
+# import numpy as np
+# import pandas as pd
+# import scipy
+# import mpmath as mp
+# import multiprocess
