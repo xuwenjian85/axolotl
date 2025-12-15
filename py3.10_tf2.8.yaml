@@ -1,0 +1,10 @@
+name: py3.10_tf2.8
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - tensorflow=2.8.0
+  - pandas
+  - yaml
+  - pyyaml
+prefix: /mnt/disk7t/xwj/soft/miniforge3/envs/py3.10_tf2.8

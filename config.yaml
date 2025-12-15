@@ -1,0 +1,19 @@
+paths:
+  conda: /mnt/disk7t/xwj/soft/miniforge3/etc/profile.d/conda.sh
+  script1: /mnt/disk7t/xwj/axolotl_rev/submit_code
+  abeille: /mnt/disk7t/xwj/axolotl_rev/submit_code
+
+  abeille_env_py: py3.10_tf2.8
+  abeille_env_r: r4.0_abeille
+
+  outrider_env: r4_outrider
+  outrider_script: 'outrider_pred_dim.R'
+
+  outsingle_env: py3.12
+  outsingle_script: "outsingle.py"  
+  outsingle_dir: "/mnt/disk7t/xwj/axolotl_rev/submit_code/outsingle"  
+
+  mymethod_env: py3.12
+  mymethod_script: "run_mymethod.py"  
+
+

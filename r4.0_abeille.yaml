@@ -1,0 +1,16 @@
+name: r4.0_abeille
+channels:
+  - conda-forge
+dependencies:
+  - bioconda::bioconductor-deseq2
+  - bioconda::bioconductor-genomeinfodbdata
+  - conda-forge::r-devtools
+  - r-base==4.0
+  - bioconductor-edger
+  - r-e1071
+  - r-progress
+  - r-reticulate
+  - conda-forge::r-ranger
+  - bioconductor-biocstyle
+  - conda-forge::pdflatex
+prefix: /mnt/disk7t/xwj/soft/miniforge3/envs/r4.0_abeille
