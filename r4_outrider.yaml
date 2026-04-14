@@ -1,0 +1,8 @@
+name: r4_outrider
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconda::bioconductor-outrider
+prefix: /mnt/disk7t/xwj/soft/miniforge3/envs/r4_outrider
